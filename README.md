@@ -6,8 +6,6 @@
 - [Project Overview](#project-overview)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
 - [Simulation Details](#simulation-details)
 
 
@@ -38,30 +36,6 @@ Before you begin, make sure you have the following software and libraries instal
 - NumPy: `pip install numpy`
 - Matplotlib: `pip install matplotlib`
 - Canva :`pip install Canva`
-
-
-### Installation
-
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/seismic-simulation.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd seismic-simulation
-   ```
-
-3. Install the required Python packages:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. If you plan to use Canva, make sure you have the necessary API credentials and configure the Canva integration.
-
 
 
 ## Simulation Details
