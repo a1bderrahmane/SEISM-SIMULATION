@@ -4,8 +4,7 @@
 
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
+- [Prerequisites](#prerequisites)
 - [Simulation Details](#simulation-details)
 
 
@@ -22,12 +21,6 @@ Seismic activity simulations are crucial for understanding and predicting earthq
 - Creating interactive HTML-based visualizations for analytical purposes.
 - Employing Canva for the design of informative graphics.
 - Utilizing numerical methods to make accurate approximations.
-
-
-## Getting Started
-
-Follow these steps to get started with the Seismic Activity Simulation project.
-
 ### Prerequisites
 
 Before you begin, make sure you have the following software and libraries installed:
