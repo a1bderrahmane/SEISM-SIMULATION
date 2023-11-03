@@ -1,1 +1,70 @@
-# SEISM-SIMULATION
+# Seismic Activity Simulation with Gutenberg-Richter's Model
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Project Overview](#project-overview)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Simulation Details](#simulation-details)
+
+
+## Introduction
+
+Welcome to the Seismic Activity Simulation project! This project aims to simulate seismic activity using the Gutenberg-Richter model, a widely accepted empirical law describing earthquake magnitude-frequency distribution. We employ libraries such as Matplotlib, HTML, Canva, and NumPy, along with numerical methods, to create accurate seismic activity approximations.
+
+## Project Overview
+
+Seismic activity simulations are crucial for understanding and predicting earthquakes. This project utilizes Gutenberg-Richter's model to estimate the distribution of earthquake magnitudes and their probabilities. Key components of the project include:
+
+- Generating synthetic earthquake data.
+- Analyzing and visualizing earthquake data with Matplotlib.
+- Creating interactive HTML-based visualizations for analytical purposes.
+- Employing Canva for the design of informative graphics.
+- Utilizing numerical methods to make accurate approximations.
+
+
+## Getting Started
+
+Follow these steps to get started with the Seismic Activity Simulation project.
+
+### Prerequisites
+
+Before you begin, make sure you have the following software and libraries installed:
+
+- Python 3.x
+- NumPy: `pip install numpy`
+- Matplotlib: `pip install matplotlib`
+- Canva :`pip install Canva`
+
+
+### Installation
+
+1. Clone this repository to your local machine:
+
+   ```bash
+   git clone https://github.com/your-username/seismic-simulation.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd seismic-simulation
+   ```
+
+3. Install the required Python packages:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. If you plan to use Canva, make sure you have the necessary API credentials and configure the Canva integration.
+
+
+
+## Simulation Details
+
+The seismic activity simulation is based on the Gutenberg-Richter model, which relates the number of earthquakes to their magnitudes. 
+
